@@ -4,17 +4,19 @@
     "url": "https://grafana.mrz.my.id/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/grafana.mrz.my.id.ico",
     "slug": "grafana",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 956,
-    "timeDay": 742,
-    "timeWeek": 932,
-    "timeMonth": 956,
-    "timeYear": 956,
-    "dailyMinutesDown": {}
+    "time": 906,
+    "timeDay": 312,
+    "timeWeek": 838,
+    "timeMonth": 906,
+    "timeYear": 906,
+    "dailyMinutesDown": {
+      "2026-03-23": 0
+    }
   }
 ]
