@@ -1,7 +1,7 @@
 url: https://grafana.mrz.my.id/api/health
-status: up
-code: 200
-responseTime: 1146
-lastUpdated: 2026-03-29T23:12:43.245Z
+status: down
+code: 502
+responseTime: 1017
+lastUpdated: 2026-03-30T15:22:18.235Z
 startTime: 2026-03-12T02:35:44.648Z
 generator: Upptime <https://github.com/upptime/upptime>
